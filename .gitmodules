@@ -1,0 +1,3 @@
+[submodule "submodules/mex_fisheries"]
+	path = submodules/mex_fisheries
+	url = git@github.com:jcvdav/mex_fisheries.git
