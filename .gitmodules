@@ -1,6 +1,6 @@
 [submodule "submodules/mex_fisheries"]
-	path = submodules/mex_fisheries
+	path = mex_fisheries
 	url = git@github.com:jcvdav/mex_fisheries.git
 [submodule "submodules/remotes"]
-	path = submodules/remotes
+	path = remotes
 	url = git@github.com:jcvdav/remotes.git
