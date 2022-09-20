@@ -1,3 +1,7 @@
+# Data
+
+This repo summarizes a few sources of data. I use one github repo for each data set because this simplifies maintaining each of them. This repo only contains the submodules that point at the main branch on the source repo.
+
 # Available data within each data set:
 
 ## `mex_fisheries`
